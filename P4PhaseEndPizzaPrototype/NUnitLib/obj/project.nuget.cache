@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "/h/Nrp5Zax1WCg6VssBv3AKYc3gUHucnC6FbN12aeecx/ZuyJCgDKLJ6xlCn/xeByV4Rrm5oBZMYsaSxhTqLhA==",
+  "success": false,
+  "projectFilePath": "D:\\Simplilearn\\Phase_4\\AssistedPractice\\Projects\\Project_2\\P4PhaseEndPizzaPrototype\\NUnitLib\\NUnitLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\vpava.DESKTOP-U064AL2\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Simplilearn\\Phase_4\\AssistedPractice\\Projects\\Project_2\\P4PhaseEndPizzaPrototype\\P4PhaseEndPizzaPrototype\\P4PhaseEndPizzaPrototype.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Simplilearn\\Phase_4\\AssistedPractice\\Projects\\Project_2\\P4PhaseEndPizzaPrototype\\P4PhaseEndPizzaPrototype\\P4PhaseEndPizzaPrototype.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
